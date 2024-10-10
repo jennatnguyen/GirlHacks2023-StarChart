@@ -12,6 +12,9 @@ A web application that provides daily horoscope details and generates a star map
 - Streamlit - Python
 - GeoPy, Skyfield, AstroPy
 - REST API
+- 
+## Honors
+Won best themed hack at WiCS's 2023 GirlHacks Hackathon
 
 # Screenshots 📷
 ![skychart 1](https://github.com/jennatnguyen/GirlHacks2023-StarChart/assets/145524606/d0f3ae46-7057-4229-9f3d-1a8be01c71c3)
